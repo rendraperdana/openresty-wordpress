@@ -1,0 +1,1 @@
+2018/02/27 17:48:10 [error] 38893#38893: *1 open() "/usr/local/openresty/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.157.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.157.200", referrer: "http://192.168.157.200/"
