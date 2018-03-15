@@ -1,1 +1,3 @@
 *_temp
+conf/sites/test.com/wp-content/*
+logs/*
